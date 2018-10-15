@@ -1,0 +1,37 @@
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+/* ---------------------------------------------------
+    OTHER STYLE
+----------------------------------------------------- */
+
+#submit {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 36px; /* Положение от нижнего края */
+}
+
+.col-md-auto{
+    padding-right: 0px
+
+}
+
+.row.justify-content-center{
+    margin: 30px
+}
+
+footer.text-muted {
+    margin-top: 100px
+}
+
+.row.align-items-center input{
+    margin-right: 30px
+
+}
